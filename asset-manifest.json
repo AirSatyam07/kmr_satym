@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/kmr_satym/static/css/main.5e4084d1.css",
-    "main.js": "/kmr_satym/static/js/main.ab49f6ba.js",
+    "main.js": "/kmr_satym/static/js/main.84e47d39.js",
     "static/media/cv.pdf": "/kmr_satym/static/media/cv.84b833e0c07e59d3c9e5.pdf",
     "static/media/me.jpeg": "/kmr_satym/static/media/me.3b6f104be3218965c5da.jpeg",
     "index.html": "/kmr_satym/index.html",
     "main.5e4084d1.css.map": "/kmr_satym/static/css/main.5e4084d1.css.map",
-    "main.ab49f6ba.js.map": "/kmr_satym/static/js/main.ab49f6ba.js.map"
+    "main.84e47d39.js.map": "/kmr_satym/static/js/main.84e47d39.js.map"
   },
   "entrypoints": [
     "static/css/main.5e4084d1.css",
-    "static/js/main.ab49f6ba.js"
+    "static/js/main.84e47d39.js"
   ]
 }
