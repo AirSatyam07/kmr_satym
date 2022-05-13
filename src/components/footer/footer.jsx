@@ -21,7 +21,7 @@ const footer = () => {
         <a href='https;//facebook.com'><ImFacebook2/></a>
         <a href='https;//instagram.com'><BsInstagram/></a>
         <a href='https;//twitter.com'><BsTwitter/></a>
-        <a href='https;//linkedin.com'><BsLinkedin/></a>
+        <a href='https;//linkedin.com/in/satyam-kumar-910691221'><BsLinkedin/></a>
       </div>
     </footer>
 
