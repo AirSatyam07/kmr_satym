@@ -1,6 +1,6 @@
 import React from "react";
 import "./about.css";
-import ME from "../../assets/me-about.jpg";
+import ME from "../../assets/me.jpeg";
 import { FaAward } from "react-icons/fa";
 import { FiUsers } from "react-icons/fi";
 
@@ -21,22 +21,24 @@ const about = () => {
             <article className="about__card">
               <FaAward className="about__icon" />
               <h5>Experience</h5>
-              <small>3+ Years Working</small>
+              <small>Executive member at EEE Association</small>
             </article>
             <article className="about__card">
               <FiUsers className="about__icon" />
               <h5>Clients</h5>
-              <small>200+ World wide</small>
+              <small>Yet to come</small>
             </article>
             <article className="about__card">
               <FaAward className="about__icon" />
               <h5>Projects</h5>
-              <small>80+ Completed</small>
+              <small>2 completed</small>
             </article>
           </div>
           <p>
-            Hello I am SAtyam KUMAR this website has been build
-            by me with the help of youtube videos and some of my skills in react html and css
+            Hello I am SAtyam KUMAR 
+            EEE 2nd year student studying at National Institute of Technology Andhra Pradesh.
+            A developer by passion. p.s. In learning stage .
+            Dream job at Google 
           </p>
           <a href="#content" className="btn btn-primary">
             Let's Talk
